@@ -1,6 +1,0 @@
-# A股复盘看板
-*.db
-*.pyc
-__pycache__/
-*.log
-.DS_Store
